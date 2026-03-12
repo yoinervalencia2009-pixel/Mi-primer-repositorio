@@ -1,2 +1,4 @@
-# Mi-primer-repositorio
-Proyecto de práctica grado 11
+# Mi primer repositorio
+Nombre: Yoiner Valencia 
+Curso:Grado 11°4
+Institución: I.E Donmatías 
